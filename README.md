@@ -9,7 +9,7 @@ You are expected to steer the system to the target by providing different inputs
 
 
 ### Installation
-- download the code to the local
+- download the code `double_integrator_demo.m` to the local
 - run in Matlab (tested version on 2021a)
 
 ### How to play
