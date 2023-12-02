@@ -1,7 +1,10 @@
 # game: control a double integrator
 A simple game lets you control a double integrator model
-$\dot{x}_1(t) &= x_2(t) \\
-    \dot{x}_2(t) &= u(t)$
+
+$\dot{x}_1(t) = x_2(t)$
+
+$\dot{x}_2(t) = u(t)$
+    
 You are expected to steer the system to the target by providing different inputs
 
 
